@@ -8,6 +8,7 @@ Refer: https://www.geektrust.in/coding-problem/backend/tame-of-thrones </p>
 Python >= 3.8 <br>
 Install external modules using `pip install -r requirements.txt` in a virtual environment<br>
 Install pre-commit hooks using `pre-commit install`<br>
+Install pre-push hooks using `pre-commit install -t pre-push` <br>
 
 # Usage
 Running without unittests `python -m geektrust "absolute/relative path to input file"` <br>
