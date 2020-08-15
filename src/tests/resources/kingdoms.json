@@ -1,0 +1,12 @@
+{
+  "rulers": {
+    "SPACE": "GORILLA"
+  },
+  "allies": {
+    "LAND": "PANDA",
+    "WATER": "OCTOPUS",
+    "ICE": "MAMMOTH",
+    "AIR": "OWL",
+    "FIRE": "DRAGON"
+  }
+}
